@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# env
+.env
+.venv
+venv/
