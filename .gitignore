@@ -12,5 +12,5 @@ __pycache__/
 venv/
 
 # models
-models/
-!.download
+models/bertimbau/*
+!models/bertimbau/.download
